@@ -1,6 +1,4 @@
 # Market-Segmentation
-
-readme_content = """
 # ⚡ Electric Vehicle (EV) Market Analysis
 
 This project explores the **Indian Electric Vehicle (EV) market**, analyzing market growth, consumer behavior, and adoption patterns using real-world datasets. The analysis is performed using Python and presented through a Jupyter Notebook.
